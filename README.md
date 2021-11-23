@@ -12,11 +12,13 @@ Planned structure as for now:
 -Getting started
   :Get a lab
   
--Useful tutorials
+-Useful tutorials, education and certification
   :cybrary
   :OST
   :OST2
   :ippsec
+  :OSCP
+  :Juniper
   ...
   
 -useful tools
@@ -37,6 +39,7 @@ Planned structure as for now:
   :Security Engineering Edition 3
   :Network Security Assessment
   ...
+  
 
 -hands on web resources
   :hacking lab
