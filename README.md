@@ -10,37 +10,37 @@ I will add new resources in the future, but this depends on my time. Planned res
 Planned structure as for now:
 
 -Getting started
-  Get a lab
+  :Get a lab
   
 -Useful tutorials
-  cybrary
-  OST
-  OST2
-  ippsec
+  :cybrary
+  :OST
+  :OST2
+  :ippsec
   ...
   
 -useful tools
-  nmap
-  wireshark
-  metasploit
-  burpsuite
-  and the list goes on and on ...
+  :nmap
+  :wireshark
+  :metasploit
+  :burpsuite
+  :and the list goes on and on ...
   
 -useful websites
-  VT
-  CVE lists
+  :VT
+  :CVE lists
   shodan
   ...
   
 -books
-  list of interesting books:
-  Security Engineering Edition 3
-  Network Security Assessment
+  :list of interesting books:
+  :Security Engineering Edition 3
+  :Network Security Assessment
   ...
 
 -hands on web resources
-  hacking lab
-  overthewire
+  :hacking lab
+  :overthewire
   ...
   
   
