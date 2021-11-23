@@ -29,7 +29,7 @@ Planned structure as for now:
 -useful websites
   :VT
   :CVE lists
-  shodan
+  :shodan
   ...
   
 -books
