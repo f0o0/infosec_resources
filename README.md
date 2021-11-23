@@ -42,3 +42,11 @@ Planned structure as for now:
   hacking lab
   overthewire
   ...
+  
+  
+-Down the rabbit hole (more specific topix)
+
+  --Network Pentesting and port knocking
+  --OWASP10
+  --Shellcoding, Reverse Engineering and Assembler
+  ...
